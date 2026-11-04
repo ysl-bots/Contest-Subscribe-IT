@@ -1,6 +1,6 @@
 # Contest-Subscribe-IT
 
-IT·데이터·AI 공모전을 매주 모아 이 저장소에 **Issue 다이제스트**로 올립니다. 저장소를 Watch하면 GitHub 알림 메일로 받아볼 수 있습니다. 별도 가입이나 메일 등록은 없습니다.
+IT·데이터·AI 공모전을 매주 모아 이 저장소에 **Issue**로 올립니다. 저장소를 Watch하면 GitHub 알림 메일로 받아볼 수 있습니다.
 
 - 소스: [위비티](https://www.wevity.com), [링커리어](https://linkareer.com)
 - 발송: 매주 월요일 오전 9시경 (KST)
